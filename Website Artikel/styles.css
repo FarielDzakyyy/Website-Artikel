@@ -1,0 +1,59 @@
+.Judul{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.judul-1{
+    margin-top: 150px;
+}
+
+.luffy-30-juta{
+    align-items: center;
+}
+    
+    img{
+      height: 300px;
+      width: 300px;
+    }
+  
+    .align-center{
+      display: block;
+      margin: 0px auto;
+    }
+  
+    .unimus{
+      height: 100px;
+      width: 400px;
+    }
+  
+    .DataCenter{
+      height: 400px;
+      width: 400px;
+      display: block;
+      margin: auto; 
+    }
+  
+    .JaringanServer{
+      height: 400px;
+      width: 400px;
+      display: block;
+      margin: auto;
+    }
+  
+.gambar-1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.gambar-2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer{
+    margin-top: 100px;
+}
